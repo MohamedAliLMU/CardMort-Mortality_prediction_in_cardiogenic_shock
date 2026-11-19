@@ -89,6 +89,7 @@ from sklearn.cluster import KMeans
 import dice_ml
 from sympy import plot
 
+plt.rcParams['font.family'] = 'Arial'
 # ================================
 # Global Settings
 # ================================
